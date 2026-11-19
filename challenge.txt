@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title> HTML Challenge</title>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+
+            <hr>
+            <h1>Heading 1</h1>
+       <h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<hr>
+
+    <h2>HTML ELEMENTS CHALLENGE</h2>
+    
+    <p> This is a paragraph.</p>
+
+    <strong>This is a strong text.</strong>
+    <br><br>
+    <u>Underlined text</u>
+    <b>Bold text</b>
+    <br>
+
+    <span>This is a span element</span>
+    <hr>
+    <h2>Lists</h2>
+    <h3>Unorderd Lists</h3>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Web Design</li>
+    </ul>
+    
+    <h3>Orderd Lists</h3>
+
+    <ol>
+    <li>Learn HTML</li>
+    <li>Learn CSS</li>
+    <li>Learn JavaScript</li>
+    <li>Create a website</li>
+    </ol>
+
+    <hr>
+    <h2> My Weekly Shedule</h2>
+
+    <table>
+        <tr>
+            <th>Day</th>
+            <th>Subject</th>
+            <th>Grade</th>
+        </tr>
+        
+        <tr>
+            <td>Monday</td>
+            <td>HTML</td>
+            <Td>5</Td>
+        </tr>
+
+        <tr>
+            <td>Tuesday</td>
+            <td>CSS</td>
+            <Td>4</Td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>Programming</td>
+            <td>5</td>
+        </tr>
+
+
+        <tr>
+            <td>Thursday</td>
+            <td>Informatics</td>
+            <td>5</td>
+        </tr>
+    </table>
+
+    <hr>
+    <h2>Links and Images</h2>
+
+    <p>Visit this useful website</p>
+
+    <a href="https://www.google.com">Visit Google</a>
+    <br><br>
+    <img scr="https://static.vecteezy.com/system/resources/previews/014/017/552/original/trippy-wavy-swirling-background-art-with-random-rainbow-colors-square-shaped-wallpaper-vector.jpg"
+    alt="Example image">
+    <hr>
+    <h2>Form Elements</h2>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name"
+        placeholder="Enter your name">
+
+        "<br><br>
+
+    <label for="email">Email</label>
+    <input type="email" id="email">
+
+    <br><br>
+
+    <label for="password">Password</label>
+    <input type="password" id="password">
+
+    <br><br>
+
+    <label>Choose your gender:</label>
+
+    <input type="radio" name="gender">Male
+    <input type="radio" name="gender">Female
+    
+    <br><br>
+
+   <label>
+    <input type="checkbox">
+    I agree
+   </label>
+   <br><br>
+   <input type="submit" value="Submit">
+   <input type="reset" value="Reser"> 
+    </form>
+
+   <footer>
+    <p> Created for HTML Challenge</p>
+    <p>My First Web project</p>
+   </footer>
